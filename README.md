@@ -30,5 +30,5 @@ Developing **Zephyr Infrastructure Intelligence** — a platform for engineering
 ---
 
 ## 📫 Connect
-- LinkedIn:  
-- YouTube:  
+- LinkedIn: linkedin.com/in/ducarmelzephyr  
+- YouTube: https://www.youtube.com/@EnergySystemsSimplified  
