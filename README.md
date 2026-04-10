@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ducarmel Zephyr
 
-**Electrical Engineer • GIS Technologist • Intelligent Infrastructure Architect**  
+**Electrical Engineering Student | Power Systems | Protection & Control | MATLAB/Simulink**  
 Building tools that merge **power systems**, **GIS**, and **land intelligence** to design smarter, resilient infrastructure.  
 Founder of **Zephyr Infrastructure Intelligence**.
 
