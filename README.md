@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ducarmel Zephyr
 
-**Electrical Engineering Student | Power Systems | Protection & Control | MATLAB/Simulink**  
+**Electrical Engineering Student | Power Systems & Transmission | Python | Electricity Market Analysis**  
 Building tools that merge **power systems**, **GIS**, and **land intelligence** to design smarter, resilient infrastructure.  
 Founder of **Zephyr Infrastructure Intelligence**.
 
